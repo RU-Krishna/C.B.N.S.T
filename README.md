@@ -10,14 +10,14 @@ Hello readers,
  
  The Programs(Methods) in each category are as:-
  
- 1.  --------------------------------------------Algebraic and Transcendental Equations----------------------------------------------
+ 1.  -------------------------------Algebraic and Transcendental Equations----------------------------
  
        a). Bisection Method.    
        b). Regula Falsi Method.      
        c). Newton Raphson Method.
       
       
-  2. --------------------------------------------Interpolation------------------------------------------------
+  2. -----------------------------Interpolation----------------------------------
     
     a). Equal Intervals
     
@@ -30,7 +30,7 @@ Hello readers,
                 i. Newton's Divided Difference Interpolation Formula.
                ii. Lagrange's Interpolation Formula.
               
-   3. -------------------Numerical Methods for Differentiation and Integration--------------------------------
+   3. ------------Numerical Methods for Differentiation and Integration----------------
    
        a). Differentiation
        
